@@ -41,11 +41,6 @@ It helps **teams, analysts, and cricket enthusiasts** strategize and understand 
 - Python 3.8+  
 - Virtual environment (recommended)
 
-### Installation
-# Clone the repository
-git clone https://github.com/Sraghav97/Cricket_Score_Prediction.git
-cd Cricket_Score_Prediction
-
 # Install dependencies
 
 # Run the application
